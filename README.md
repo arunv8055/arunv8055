@@ -1,6 +1,3 @@
-
----
-
 # 👋 Hi, I'm Arun V.  
 **Data Analyst | Business Intelligence Enthusiast | Agri-Tech Advocate**  
 📍 Vellore, India | 🌐 [LinkedIn](https://linkedin.com/in/varun7582) | [GitHub](https://github.com/arunv8055)
